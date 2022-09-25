@@ -1,4 +1,4 @@
-# Praktikum Websitr
+# Praktikum Website
 
 - Asyhab Ramadhan
 - 2009106145
