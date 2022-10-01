@@ -4,6 +4,7 @@
 - Nim    : 2009106145
 - Kelas  : Informatika c
 
-Bahasa : Html, Css, Php, JavaScript
-
+* Sosmed 
 - Instagram : https://www.instagram.com/ash4rr/
+
+Bahasa : Html, Css, Php, JavaScript
