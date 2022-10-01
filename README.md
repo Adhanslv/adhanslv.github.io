@@ -1,7 +1,9 @@
 # Praktikum Website
 
-- Asyhab Ramadhan
-- 2009106145
-- Informatika c
+- Nama   : Asyhab Ramadhan
+- Nim    : 2009106145
+- Kelas  : Informatika c
 
 Bahasa : Html, Css, Php, JavaScript
+
+- Instagram : https://www.instagram.com/ash4rr/
